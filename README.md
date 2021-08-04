@@ -6,6 +6,33 @@ DCC is a Graphics Design Software devloped using the language Python and the fra
 
 [3 minute video](https://www.youtube.com/watch?v=Pg2cWcYQs60)
 
+## Features
+
+- Insert/delete images
+- Resize/rotate/drag layers
+- Move layer up/down on Z-axis
+- Toggle layer visibility
+- Crop layers
+- Cutout layers
+    - Smooth path outline
+    - Soften cutout edges
+- Undo/redo actions
+- Alter image:
+    - Brightness
+    - Sharpness/Blur
+    - Contrast
+    - RGB Levels
+ - Add text layer
+ - Generate colour palette from an image layer
+    - From the palette generate a gradient background
+ - Randomise properties of a layer
+    - Position/scale/rotation/colour/filters
+    - Lock in properties
+ - Save canvas as .png image file
+ - Save canvas as .dcc file format
+    - JSON format to import project including layers and property values
+
+
 ## Installing and running DCC
 
 ### Python v3.9.2
