@@ -1,4 +1,4 @@
-# Digital-Collage-Creator (DCC)
+# Digital Collage Creator (DCC)
 
 DCC is a Graphics Design Software devloped using the language Python and the framework PyQt. It was created and tested on the Windows 10 platform, using Python v3.9.2 and PyQt v5. The application was created as current graphics design softwares either have high usability and low quality results or low usability and high quality results, DCC aims to fill this gap in the usability-quality tradeoff. This is done by designing the application around the creation of one type of digital art, **digital collage**, this allows many of the surplus tools and features to be stripped away while maintaining a familiar interface to other design softwares.
 
